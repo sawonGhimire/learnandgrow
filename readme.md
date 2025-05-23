@@ -1,1 +1,1 @@
-this is a git test to be pushed
+this is a git test to be pushedgit config --list
